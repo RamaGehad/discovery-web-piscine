@@ -1,0 +1,5 @@
+commit 813b83b55db855ddd569fcc70daeffdc616d935b
+Author: RamaGehad <ramaobeidat@RamaJehad.localdomain>
+Date:   Sun Oct 4 03:06:33 2026 +0300
+
+    Initial commit with hello.txt
