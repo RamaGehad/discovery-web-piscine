@@ -1,40 +1,46 @@
-dev_workspace:
+.:
+total 12
+drwxr-xr-x 3 ramaobeidat ramaobeidat 4096 Oct  4 02:00 .
+drwxr-x--- 5 ramaobeidat ramaobeidat 4096 Oct  4 02:08 ..
+drwxr-xr-x 5 ramaobeidat ramaobeidat 4096 Oct  4 02:01 dev_workspace
+
+./dev_workspace:
 total 20
 drwxr-xr-x 5 ramaobeidat ramaobeidat 4096 Oct  4 02:01 .
-drwxr-xr-x 3 ramaobeidat ramaobeidat 4096 Oct  4 02:14 ..
+drwxr-xr-x 3 ramaobeidat ramaobeidat 4096 Oct  4 02:00 ..
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:01 archives
 drwxr-xr-x 3 ramaobeidat ramaobeidat 4096 Oct  4 02:06 projects
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:01 tools
 
-dev_workspace/archives:
+./dev_workspace/archives:
 total 8
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:01 .
 drwxr-xr-x 5 ramaobeidat ramaobeidat 4096 Oct  4 02:01 ..
 
-dev_workspace/projects:
+./dev_workspace/projects:
 total 12
 drwxr-xr-x 3 ramaobeidat ramaobeidat 4096 Oct  4 02:06 .
 drwxr-xr-x 5 ramaobeidat ramaobeidat 4096 Oct  4 02:01 ..
 drwxr-xr-x 4 ramaobeidat ramaobeidat 4096 Oct  4 02:06 web
 
-dev_workspace/projects/web:
+./dev_workspace/projects/web:
 total 16
 drwxr-xr-x 4 ramaobeidat ramaobeidat 4096 Oct  4 02:06 .
 drwxr-xr-x 3 ramaobeidat ramaobeidat 4096 Oct  4 02:06 ..
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:06 backend
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:06 frontend
 
-dev_workspace/projects/web/backend:
+./dev_workspace/projects/web/backend:
 total 8
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:06 .
 drwxr-xr-x 4 ramaobeidat ramaobeidat 4096 Oct  4 02:06 ..
 
-dev_workspace/projects/web/frontend:
+./dev_workspace/projects/web/frontend:
 total 8
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:06 .
 drwxr-xr-x 4 ramaobeidat ramaobeidat 4096 Oct  4 02:06 ..
 
-dev_workspace/tools:
+./dev_workspace/tools:
 total 8
 drwxr-xr-x 2 ramaobeidat ramaobeidat 4096 Oct  4 02:01 .
 drwxr-xr-x 5 ramaobeidat ramaobeidat 4096 Oct  4 02:01 ..

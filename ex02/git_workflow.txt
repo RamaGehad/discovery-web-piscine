@@ -1,5 +1,0 @@
-1. Edit source files
-2. Check status with git status
-3. Stage changes with git add <file>
-4. Commit changes with git commit -m 'message'
-5. Push changes to remote with git push origin main
