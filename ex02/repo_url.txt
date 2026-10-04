@@ -1,1 +1,1 @@
- https://github.com/RamaGehad/discovery-web-piscine 
+https://github.com/RamaGehad/hello-repo.git
